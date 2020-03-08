@@ -44,7 +44,7 @@ This tool **include:**
 ### Installation with requirements.txt
 
 ```bash
-git clone https://github.com/capture0x/XCTR-Hacking-Tools/
+git clone https://github.com/Moham3dRiahi/Th3inspector.git
 cd xctr-hacking-tools
 pip3 install -r requirements.txt
 ```
