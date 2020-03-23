@@ -14,7 +14,6 @@ Instagram: [Capture the Root](https://www.instagram.com/capturetheroot/)
 <img src="https://i.imgur.com/2PeqSwV.png" width="32%"></img>
 <img src="https://i.imgur.com/jcih4M7.png" width="32%"></img>
 <img src="https://i.imgur.com/u764FPn.png" width="32%"></img>
-<img src="https://i.imgur.com/4vgf6up.png" width="32%"></img>
 <img src="https://i.imgur.com/NBBxOnn.png" width="32%"></img>
 <img src="https://i.imgur.com/8sR7yeH.png" width="32%"></img>
 
