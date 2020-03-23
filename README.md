@@ -62,7 +62,7 @@ pip3 install -r requirements.txt
 
 ```bash
 python3 xctr.py
-Upgrade proxies from settings menu (9 than 3) 
+Update proxies from settings menu (9 than 3) 
 ```
 
 **All results save in results/project-name.**
