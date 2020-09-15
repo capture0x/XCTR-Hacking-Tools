@@ -128,8 +128,5 @@ This tool, find proxies on free-proxy-list.net and updates proxy.txt on main dir
 
 For bug reports or enhancements, please open an [issue](https://github.com/capture0x/XCTR-Hacking-Tools/issues) here.
 
-## Support and Donations
-
-Contact us with email [capture0x@mail.com.tr](mailto:capture0x@mail.com.tr?Subject=Xctr%20Tool)
 
 **Copyright 2020**
