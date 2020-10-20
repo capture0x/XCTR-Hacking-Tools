@@ -53,7 +53,7 @@ This tool **include:**
 
 ```bash
 git clone https://github.com/capture0x/XCTR-Hacking-Tools/
-cd xctr-hacking-tools
+cd XCTR-Hacking-Tools
 pip3 install -r requirements.txt
 ```
 
