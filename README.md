@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/OHlscCr.png" width="60%"></img>
 
 
-#### Written by Hulya Karabag | Mert Beyoglu
+#### Written by TMRSWRR | DOCHERROLD
 #### Version 1.0.0
 All in one tools for **Information Gathering**.
 
