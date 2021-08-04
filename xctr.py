@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import sys
 import func
 import configparser
@@ -215,7 +216,12 @@ def welcomeScreen():
 
 
 if __name__ == "__main__":
-    Giris()
-    func.Configuration.isDirectoryExist()
-    Menu()
-    welcomeScreen()
+    try:
+        Giris()
+        func.Configuration.isDirectoryExist()
+        Menu()
+        welcomeScreen()
+     except KeyboardInterrupt:
+        print("\nCtrl + C")
+        print("\nExiting...")
+        sys.exit()

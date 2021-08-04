@@ -1,7 +1,10 @@
+#!/usr/bin/python3
+'''
+Lib
+'''
 import configparser
 import os
 from time import sleep
-
 import bs4
 import random
 import re
